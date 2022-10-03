@@ -1,3 +1,4 @@
 this file is created for practise
-than you
+demo practise of git diff
+thank you
 
