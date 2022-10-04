@@ -8,3 +8,4 @@ second edit for practise
 practise of git diff
 and git merge
 thankyou
+gui merge test and practise
